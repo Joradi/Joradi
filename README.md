@@ -35,7 +35,7 @@ Incluye:
 - Testing con JUnit, Mockito y MockMvc.
 - Configuración mediante variables de entorno.
 
-Repositorio: https://github.com/Joradi/exportflow-api
+[Ver repositorio de ExportFlow](https://github.com/Joradi/exportflow-api)
 
 ### 🃏 TCG Premium
 
@@ -50,7 +50,7 @@ Incluye:
 - Panel administrativo.
 - Base de datos relacional.
 
-Repositorio: https://github.com/Joradi/tcg-premium
+[Ver repositorio de TCG Premium](https://github.com/Joradi/tcg-premium)
 
 ## Objetivo profesional
 
@@ -64,8 +64,8 @@ Busco mi primera oportunidad remunerada en desarrollo de software, principalment
 
 ## Actualmente
 
-- Consolidando Spring Boot mediante práctica autónoma.
-- Resolviendo ejercicios de lógica y algoritmos.
-- Practicando SQL.
+- Consolidando Spring Boot mediante práctica con mayor autonomía.
+- Entrenando lógica y resolución de problemas.
+- Reforzando SQL.
 - Profundizando testing backend.
-- Construyendo nuevos proyectos con menor dependencia de ejemplos.
+- Desarrollando nuevos proyectos aplicando lo aprendido.
