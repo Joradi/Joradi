@@ -1,25 +1,47 @@
 # Hola, soy Jonathan Díaz Meza 👋
 
-Desarrollador Backend Junior en formación, con conocimientos en Java, Spring Boot, Laravel, SQL, Git y Docker.
+Desarrollador Backend Junior enfocado en **Java y Spring Boot**, con experiencia práctica construyendo APIs REST, aplicaciones web y bases de datos relacionales.
 
-Actualmente estoy enfocado en fortalecer mis bases de programación y construir proyectos web con lógica de negocio real, APIs y bases de datos relacionales.
+Actualmente estoy consolidando desarrollo backend mediante proyectos con lógica de negocio, persistencia, testing y buenas prácticas de desarrollo.
 
 ## Stack principal
 
 - Java
 - Spring Boot
+- PostgreSQL / SQL
+- Spring Data JPA
+- JUnit / Mockito
+- Maven
+- Git / GitHub
 - PHP / Laravel
-- SQL
-- Git y GitHub
 - Docker básico
 
-## Proyecto destacado
+## Proyectos destacados
 
-### TCG Premium
+### 🚢 ExportFlow API
+
+API REST backend para gestionar operaciones de exportación.
+
+Incluye:
+
+- Java 21 y Spring Boot.
+- PostgreSQL y Spring Data JPA.
+- Arquitectura Controller → Service → Repository.
+- Clientes, puertos y embarques relacionados.
+- DTOs de entrada y salida.
+- Validaciones.
+- Manejo centralizado de errores HTTP.
+- Consultas por cliente y estado.
+- Testing con JUnit, Mockito y MockMvc.
+- Configuración mediante variables de entorno.
+
+Repositorio: https://github.com/Joradi/exportflow-api
+
+### 🃏 TCG Premium
 
 Aplicación e-commerce para venta de cartas coleccionables Pokémon TCG.
 
-El proyecto incluye:
+Incluye:
 
 - Catálogo de cartas.
 - Consumo de API externa de Pokémon TCG.
@@ -32,12 +54,18 @@ Repositorio: https://github.com/Joradi/tcg-premium
 
 ## Objetivo profesional
 
-Busco mi primera oportunidad remunerada en desarrollo de software, especialmente en roles de desarrollador backend junior, desarrollador web junior o trainee con foco en Java, Spring Boot, Laravel y SQL.
+Busco mi primera oportunidad remunerada en desarrollo de software, principalmente en roles de:
 
-## En aprendizaje activo
+- Backend Developer Junior.
+- Java / Spring Boot Junior.
+- Software Developer Junior.
+- Trainee Backend.
+- Full Stack Junior con foco backend.
 
-- Estructuras de datos.
-- Algoritmos básicos.
-- Buenas prácticas de backend.
-- Testing.
-- Inglés técnico.
+## Actualmente
+
+- Consolidando Spring Boot mediante práctica autónoma.
+- Resolviendo ejercicios de lógica y algoritmos.
+- Practicando SQL.
+- Profundizando testing backend.
+- Construyendo nuevos proyectos con menor dependencia de ejemplos.
